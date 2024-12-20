@@ -5,7 +5,7 @@
 *.h5
 
 # Datasets
-dataset/
+FER2013_Sentiment_Analysis/dataset
 
 # Python bytecode files
 __pycache__/
